@@ -13,4 +13,4 @@
 +) Là component được bao bọc hoặc được gọi từ một component cha. <br><br>
 **+ )Trách nhiệm chính:** <br><br>
      - ) Quản lý logic chính, dữ liệu (state), hoặc xử lý giao tiếp giữa các component con. <br><br>
-    - )Truyền dữ liệu xuống component con thông qua **props.** <br><br>
+     - )Truyền dữ liệu xuống component con thông qua **props.** <br><br>
