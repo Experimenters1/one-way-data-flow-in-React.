@@ -6,11 +6,11 @@
 ### Component Cha (Parent Component): 
 + )Là component chứa một hoặc nhiều **component con** bên trong nó.<br><br>
 **+ )Trách nhiệm chính:** <br><br>
-    - ) Quản lý logic chính, dữ liệu (state), hoặc xử lý giao tiếp giữa các component con.
-    - )Truyền dữ liệu xuống component con thông qua **props.**
+    - ) Quản lý logic chính, dữ liệu (state), hoặc xử lý giao tiếp giữa các component con.<br><br>
+    - )Truyền dữ liệu xuống component con thông qua **props.** <br><br>
   
-### Component Con (Child Component):
-+) Là component được bao bọc hoặc được gọi từ một component cha.
+### Component Con (Child Component): <br><br>
++) Là component được bao bọc hoặc được gọi từ một component cha. <br><br>
 **+ )Trách nhiệm chính:** <br><br>
-     - ) Quản lý logic chính, dữ liệu (state), hoặc xử lý giao tiếp giữa các component con.
-    - )Truyền dữ liệu xuống component con thông qua **props.**
+     - ) Quản lý logic chính, dữ liệu (state), hoặc xử lý giao tiếp giữa các component con. <br><br>
+    - )Truyền dữ liệu xuống component con thông qua **props.** <br><br>
